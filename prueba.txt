@@ -4,4 +4,12 @@ git clone https://github.com/PabloSanchez2002/DANIGE.git
 Ver estado:
 git status
 
-Ver
+Añadir cambios:
+git add .
+
+"Generar" etiqueta de cambios
+git commit -m "el nombre que quieras"
+
+Pushear cambio al repositorio
+git push
+
