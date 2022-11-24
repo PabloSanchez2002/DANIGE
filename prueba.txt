@@ -1,0 +1,7 @@
+Clonar repositorio:
+git clone https://github.com/PabloSanchez2002/DANIGE.git
+ 
+Ver estado:
+git status
+
+Ver
