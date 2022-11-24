@@ -1,0 +1,2 @@
+lista = ["hola", "adios", "jejeje"]
+
