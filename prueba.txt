@@ -5,7 +5,7 @@ Ver estado:
 git status
 
 Añadir cambios:
-git add .
+git add -A
 
 "Generar" etiqueta de cambios
 git commit -m "el nombre que quieras"
